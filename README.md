@@ -37,12 +37,6 @@ Request headers
 
 ---
 
-## Unit test
-
-```
-yarn jest
-```
-
 ## API Docs
 
 ```
